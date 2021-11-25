@@ -1,6 +1,6 @@
 # JogoDaForcaTCP
 
- Um jogo da forca simples com conexão entre cliente e servidor utilizando o protocólo TCP.<br/>
+ Um jogo da forca simples com conexão entre cliente e servidor utilizando o protocolo TCP.<br/>
  
  Como jogar:
  Habilite a porta 20000, inicie o servidor e em seguida o cliente, e, através do cliente, siga as instruções na tela para jogar.<br/>
